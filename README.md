@@ -1,0 +1,2 @@
+# platforma
+GitHub Pages
